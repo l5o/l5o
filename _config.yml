@@ -1,0 +1,54 @@
+# Build settings
+markdown: kramdown
+highlighter: pygments
+
+# Site settings
+title: Coding
+# email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Coding is the language of nature
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://fernandes.github.io" # the base hostname & protocol for your site
+# twitter_username: jekyllrb
+github_username: fernandes
+
+#blog logo
+logo: "/assets/images/logo.png"
+# blog cover
+cover: "/assets/images/header-background.jpg"
+
+name: 'Celso Fernandes'
+author: 'Celso Fernandes'
+author_image: "/assets/images/author.jpg"
+
+paginate:	5
+
+# social icons and sharing options
+social:
+  - icon:  twitter
+    url:  https://twitter.com/celsovjf
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+  - icon:  facebook
+    url:  https://facebook.com/celsovjf
+    desc: Connect with me facebook
+    share_url: //www.facebook.com/sharer.php
+    share_title: ?t=
+    share_link: "&amp;u="
+
+  - icon:	github
+    url:	https://github.com/fernandes
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
+
+  - icon:  google-plus
+    url:  https://plus.google.com/+CelsoFernandes1
+    desc:  Add me on google+
+    share_url:
+    share_title:
+    share_link:
