@@ -1,6 +1,6 @@
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: pygments 
 
 # Site settings
 title: Coding
