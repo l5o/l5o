@@ -3,22 +3,22 @@ markdown: kramdown
 highlighter: pygments 
 
 # Site settings
-title: Coding
+title: Leandro
 # email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Coding is the language of nature
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://fernandes.github.io" # the base hostname & protocol for your site
+url: "http://l5o.github.io" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
-github_username: fernandes
+github_username: l5o
 
 #blog logo
 logo: "/assets/images/logo.png"
 # blog cover
 cover: "/assets/images/header-background.jpg"
 
-name: 'Celso Fernandes'
-author: 'Celso Fernandes'
+name: 'Leandro Morais'
+author: 'Leandro Morais'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
@@ -26,29 +26,29 @@ paginate:	5
 # social icons and sharing options
 social:
   - icon:  twitter
-    url:  https://twitter.com/celsovjf
+    url:  https://twitter.com/leandrommorais
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
 
   - icon:  facebook
-    url:  https://facebook.com/celsovjf
+    url:  https://facebook.com/leandromorais
     desc: Connect with me facebook
     share_url: //www.facebook.com/sharer.php
     share_title: ?t=
     share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/fernandes
+    url:	https://github.com/l5o
     desc:	Fork me on github
     share_url:
     share_title:
     share_link:
 
-  - icon:  google-plus
-    url:  https://plus.google.com/+CelsoFernandes1
-    desc:  Add me on google+
+  - icon:  linkedin
+    url:  http://br.linkedin.com/in/leandromorais
+    desc:  Add me on LinkedIn
     share_url:
     share_title:
     share_link:
