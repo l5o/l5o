@@ -3,10 +3,10 @@ markdown: kramdown
 highlighter: pygments 
 
 # Site settings
-title: Leandro
+title: Leandro Morais
 # email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Notas pessoais sobre empreendedorismo, negócios e mais
+  My notes about start-ups, business and more
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://l5o.github.io" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
